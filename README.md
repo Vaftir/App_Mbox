@@ -26,5 +26,7 @@ Um exemplo do uso do MobX encontra se no pacote controller no arquivo produto.co
   "..."
 
 Aqui pode se dizer que ele mantém o estado da lista ate que uma acao seja tomada se houver uma modificação
+  
+  Obs a outra conta com esse mesmo app Horsend Também e minha
 
 
